@@ -10,4 +10,4 @@ Generates a game of sudoku where a users can pick varying difficulties based on 
 
 ## What the GUI should look like
 
-![alt_text]https://github.com/ericlin7/Sudoku/blob/main/blank.PNG
+![blank](https://user-images.githubusercontent.com/80200462/146861218-f0e11f87-87c9-486a-9da2-929da8df83ca.PNG)
