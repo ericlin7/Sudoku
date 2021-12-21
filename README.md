@@ -8,6 +8,8 @@ Generates a game of sudoku where a users can pick varying difficulties based on 
 3. It will generate a textfield in which you type in your number
 4. If the number is incorrect it will not update on the board 
 
-## What the GUI should look like
+## What the Blank GUI should looks like
 
 ![blank](https://user-images.githubusercontent.com/80200462/146861218-f0e11f87-87c9-486a-9da2-929da8df83ca.PNG)
+
+## What the a sample play looks like
