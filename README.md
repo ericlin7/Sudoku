@@ -16,7 +16,4 @@ Generates a game of sudoku where a users can pick varying difficulties based on 
 
 ![sample](https://user-images.githubusercontent.com/80200462/146861516-03b386cf-99cf-458b-a5db-9cf7343f0ccc.PNG)
 
-## WorkPeriod
-
-Start Date: May 17, 2021 
-End Date: May 31, 2021 
+ 
