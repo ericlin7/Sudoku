@@ -12,7 +12,7 @@ Generates a game of sudoku where a users can pick varying difficulties based on 
 
 ![blank](https://user-images.githubusercontent.com/80200462/146861218-f0e11f87-87c9-486a-9da2-929da8df83ca.PNG)
 
-## What the a sample play looks like
+## What a sample play looks like
 
 ![sample](https://user-images.githubusercontent.com/80200462/146861516-03b386cf-99cf-458b-a5db-9cf7343f0ccc.PNG)
 
